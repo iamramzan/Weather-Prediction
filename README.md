@@ -6,18 +6,18 @@ In this project, we'll predict Weather using historical data. We'll start by dow
 
 ## Project Steps
 
-Download weather data
-Clean and graph data
-Create a testing framework
-Improve model accuracy
+-  Download weather data
+-  Clean and graph data
+-  Create a testing framework
+-  Improve model accuracy
 
 
 ## Prerequisites
 
 To complete this project, you'll need to have a good understanding of:
 
-Python syntax, including functions, if statements, and data structures
-Data cleaning
-Pandas syntax
-Using Jupyter notebook
-You'll also need to know the basics of machine learning.
+-  Python syntax, including functions, if statements, and data structures
+-  Data cleaning
+-  Pandas syntax
+-  Using Jupyter notebook
+  You'll also need to know the basics of machine learning.
